@@ -3,7 +3,20 @@ body {
 }
 
 .bnav{
-    border: 1px solid gray;
     margin-top: 1%;
+}
+
+input{
+    border: none;
+    width: 202px;
+    height: 50px;
     border-radius: 5px;
+}
+
+input{
+    color: aliceblue;
+}
+
+.box1{
+    margin-top: 20%;
 }
