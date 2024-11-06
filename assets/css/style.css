@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(241, 244, 192);
+    background-image: url('../img/bg.png');
+    background-size: cover;
 }
 
 .bnav{
@@ -16,9 +17,8 @@ input{
 img{
     margin-top: 15%;
     width: 350px; 
-    /* border: solid 20px rgb(12, 210, 245);
+    border: solid 10px rgb(15, 116, 224);
     border-radius: 450px;
-    background-color: aqua; */
 }
 
 .box{
