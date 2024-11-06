@@ -13,8 +13,11 @@ input{
     border-radius: 5px;
 }
 
-
+img{
+    width: 300px;
+}
 
 .box{
     margin-top: 15%;
 }
+
