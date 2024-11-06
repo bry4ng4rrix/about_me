@@ -14,10 +14,20 @@ input{
 }
 
 img{
-    width: 450px;
+    margin-top: 15%;
+    width: 350px; 
+    /* border: solid 20px rgb(12, 210, 245);
+    border-radius: 450px;
+    background-color: aqua; */
 }
 
 .box{
     margin-top: 15%;
 }
 
+.zesta{
+    height: 500px;
+    width: 500px;
+  
+    border-radius: 500px;
+}
